@@ -1,0 +1,16 @@
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\bin\Debug\net5.0\DevCast.exe
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\bin\Debug\net5.0\DevCast.deps.json
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\bin\Debug\net5.0\DevCast.runtimeconfig.json
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\bin\Debug\net5.0\DevCast.runtimeconfig.dev.json
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\bin\Debug\net5.0\DevCast.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\bin\Debug\net5.0\ref\DevCast.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\bin\Debug\net5.0\DevCast.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.csprojAssemblyReference.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.AssemblyInfoInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.AssemblyInfo.cs
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.csproj.CoreCompileInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\ref\DevCast.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\DevCast\DevCast\obj\Debug\net5.0\DevCast.genruntimeconfig.cache
